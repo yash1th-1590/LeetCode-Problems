@@ -1,18 +1,37 @@
-# LeetCode-Problems
-Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
+# LeetCode Solutions
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
-## String
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
-## Sliding Window
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
-<!---LeetCode Topics End-->
+A collection of my solutions to LeetCode problems.
+
+## Repository Structure
+
+```text
+LeetCode/
+├── README.md
+└── [problem_name].[extension]
+```
+
+## How to Use
+
+Clone the repository:
+
+```bash
+git clone https://github.com/YOUR_USERNAME/LeetCode.git
+```
+
+Navigate to the repository:
+
+```bash
+cd LeetCode
+```
+
+Compile and run a solution (example for C):
+
+```bash
+gcc problem_name.c -o problem_name
+./problem_name
+```
+
+## Technologies
+
+- Platform: LeetCode
+- Version Control: Git
