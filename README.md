@@ -35,3 +35,19 @@ gcc problem_name.c -o problem_name
 
 - Platform: LeetCode
 - Version Control: Git
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0005-longest-palindromic-substring/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0005-longest-palindromic-substring/) | Medium |
+<!---LeetCode Topics End-->
