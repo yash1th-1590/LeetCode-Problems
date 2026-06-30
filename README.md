@@ -66,6 +66,7 @@ gcc problem_name.c -o problem_name
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0002-add-two-numbers/) | Medium |
+| [0009-palindrome-number](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0009-palindrome-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
