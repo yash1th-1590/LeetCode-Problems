@@ -47,6 +47,7 @@ gcc problem_name.c -o problem_name
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0014-longest-common-prefix](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0014-longest-common-prefix/) | Easy |
+| [0020-valid-parentheses](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0020-valid-parentheses/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -77,4 +78,8 @@ gcc problem_name.c -o problem_name
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0014-longest-common-prefix/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
