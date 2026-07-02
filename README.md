@@ -44,6 +44,7 @@ gcc problem_name.c -o problem_name
 | [0005-longest-palindromic-substring](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -63,6 +64,7 @@ gcc problem_name.c -o problem_name
 | [0004-median-of-two-sorted-arrays](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0014-longest-common-prefix/) | Easy |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
