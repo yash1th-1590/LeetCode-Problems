@@ -60,6 +60,7 @@ gcc problem_name.c -o problem_name
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0055-jump-game](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0055-jump-game/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -70,6 +71,7 @@ gcc problem_name.c -o problem_name
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0035-search-insert-position/) | Easy |
+| [0055-jump-game](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0055-jump-game/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -107,6 +109,7 @@ gcc problem_name.c -o problem_name
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0011-container-with-most-water/) | Medium |
+| [0055-jump-game](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0055-jump-game/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
