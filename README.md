@@ -95,6 +95,7 @@ gcc problem_name.c -o problem_name
 | [0029-divide-two-integers](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0029-divide-two-integers/) | Medium |
 | [0050-powx-n](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0050-powx-n/) | Medium |
 | [0069-sqrtx](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0069-sqrtx/) | Easy |
+| [0367-valid-perfect-square](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0367-valid-perfect-square/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -122,6 +123,7 @@ gcc problem_name.c -o problem_name
 | [0004-median-of-two-sorted-arrays](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0035-search-insert-position](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0069-sqrtx/) | Easy |
+| [0367-valid-perfect-square](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0367-valid-perfect-square/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
