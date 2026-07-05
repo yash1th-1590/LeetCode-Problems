@@ -104,6 +104,7 @@ gcc problem_name.c -o problem_name
 | [0070-climbing-stairs](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0070-climbing-stairs/) | Easy |
 | [0202-happy-number](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0202-happy-number/) | Easy |
 | [0204-count-primes](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0204-count-primes/) | Medium |
+| [0231-power-of-two](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0231-power-of-two/) | Easy |
 | [0367-valid-perfect-square](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0367-valid-perfect-square/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -111,6 +112,7 @@ gcc problem_name.c -o problem_name
 | [0002-add-two-numbers](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0050-powx-n](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0050-powx-n/) | Medium |
+| [0231-power-of-two](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0231-power-of-two/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -149,6 +151,7 @@ gcc problem_name.c -o problem_name
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0029-divide-two-integers/) | Medium |
+| [0231-power-of-two](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0231-power-of-two/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
