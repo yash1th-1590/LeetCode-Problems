@@ -47,6 +47,7 @@ gcc problem_name.c -o problem_name
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0202-happy-number](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0202-happy-number/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -81,6 +82,7 @@ gcc problem_name.c -o problem_name
 | [0001-two-sum](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0001-two-sum/) | Easy |
 | [0012-integer-to-roman](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0012-integer-to-roman/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0202-happy-number](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0202-happy-number/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -99,6 +101,7 @@ gcc problem_name.c -o problem_name
 | [0066-plus-one](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0070-climbing-stairs/) | Easy |
+| [0202-happy-number](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0202-happy-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0367-valid-perfect-square/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
