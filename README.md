@@ -105,6 +105,7 @@ gcc problem_name.c -o problem_name
 | [0202-happy-number](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0202-happy-number/) | Easy |
 | [0204-count-primes](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0231-power-of-two/) | Easy |
+| [0258-add-digits](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0258-add-digits/) | Easy |
 | [0367-valid-perfect-square](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0367-valid-perfect-square/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -168,4 +169,9 @@ gcc problem_name.c -o problem_name
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0204-count-primes/) | Medium |
+| [0258-add-digits](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0258-add-digits/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
