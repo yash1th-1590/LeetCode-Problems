@@ -114,6 +114,7 @@ gcc problem_name.c -o problem_name
 | [0326-power-of-three](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0326-power-of-three/) | Easy |
 | [0367-valid-perfect-square](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0367-valid-perfect-square/) | Easy |
 | [0441-arranging-coins](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0441-arranging-coins/) | Easy |
+| [0507-perfect-number](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0507-perfect-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
