@@ -111,6 +111,7 @@ gcc problem_name.c -o problem_name
 | [0263-ugly-number](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0268-missing-number/) | Easy |
 | [0292-nim-game](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0292-nim-game/) | Easy |
+| [0326-power-of-three](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0326-power-of-three/) | Easy |
 | [0367-valid-perfect-square](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0367-valid-perfect-square/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -119,6 +120,7 @@ gcc problem_name.c -o problem_name
 | [0021-merge-two-sorted-lists](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0050-powx-n](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0050-powx-n/) | Medium |
 | [0231-power-of-two](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0231-power-of-two/) | Easy |
+| [0326-power-of-three](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0326-power-of-three/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
