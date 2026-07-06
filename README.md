@@ -64,6 +64,7 @@ gcc problem_name.c -o problem_name
 | [0005-longest-palindromic-substring](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0055-jump-game](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0070-climbing-stairs/) | Easy |
+| [0509-fibonacci-number](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0509-fibonacci-number/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -115,6 +116,7 @@ gcc problem_name.c -o problem_name
 | [0367-valid-perfect-square](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0367-valid-perfect-square/) | Easy |
 | [0441-arranging-coins](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0441-arranging-coins/) | Easy |
 | [0507-perfect-number](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0507-perfect-number/) | Easy |
+| [0509-fibonacci-number](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0509-fibonacci-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -123,6 +125,7 @@ gcc problem_name.c -o problem_name
 | [0050-powx-n](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0050-powx-n/) | Medium |
 | [0231-power-of-two](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0326-power-of-three/) | Easy |
+| [0509-fibonacci-number](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0509-fibonacci-number/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -173,6 +176,7 @@ gcc problem_name.c -o problem_name
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0070-climbing-stairs/) | Easy |
+| [0509-fibonacci-number](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0509-fibonacci-number/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
