@@ -110,6 +110,7 @@ gcc problem_name.c -o problem_name
 | [0258-add-digits](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0268-missing-number/) | Easy |
+| [0292-nim-game](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0292-nim-game/) | Easy |
 | [0367-valid-perfect-square](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0367-valid-perfect-square/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -184,4 +185,12 @@ gcc problem_name.c -o problem_name
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0268-missing-number/) | Easy |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0292-nim-game/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0292-nim-game/) | Easy |
 <!---LeetCode Topics End-->
