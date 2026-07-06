@@ -113,6 +113,7 @@ gcc problem_name.c -o problem_name
 | [0292-nim-game](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0292-nim-game/) | Easy |
 | [0326-power-of-three](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0326-power-of-three/) | Easy |
 | [0367-valid-perfect-square](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0367-valid-perfect-square/) | Easy |
+| [0441-arranging-coins](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0441-arranging-coins/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -144,6 +145,7 @@ gcc problem_name.c -o problem_name
 | [0069-sqrtx](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0367-valid-perfect-square/) | Easy |
+| [0441-arranging-coins](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0441-arranging-coins/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
