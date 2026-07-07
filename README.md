@@ -114,6 +114,7 @@ gcc problem_name.c -o problem_name
 | [0292-nim-game](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0292-nim-game/) | Easy |
 | [0326-power-of-three](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0326-power-of-three/) | Easy |
 | [0367-valid-perfect-square](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0367-valid-perfect-square/) | Easy |
+| [0371-sum-of-two-integers](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0441-arranging-coins](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0441-arranging-coins/) | Easy |
 | [0507-perfect-number](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0509-fibonacci-number/) | Easy |
@@ -168,6 +169,7 @@ gcc problem_name.c -o problem_name
 | [0029-divide-two-integers](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0029-divide-two-integers/) | Medium |
 | [0231-power-of-two](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0268-missing-number/) | Easy |
+| [0371-sum-of-two-integers](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0371-sum-of-two-integers/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
