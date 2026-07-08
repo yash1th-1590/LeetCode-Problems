@@ -94,6 +94,7 @@ gcc problem_name.c -o problem_name
 | [0002-add-two-numbers](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
