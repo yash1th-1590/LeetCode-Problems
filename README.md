@@ -110,6 +110,7 @@ gcc problem_name.c -o problem_name
 | [0069-sqrtx](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0070-climbing-stairs/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0168-excel-sheet-column-title/) | Easy |
+| [0172-factorial-trailing-zeroes](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0202-happy-number](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0202-happy-number/) | Easy |
 | [0204-count-primes](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0231-power-of-two/) | Easy |
