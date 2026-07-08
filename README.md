@@ -126,6 +126,7 @@ gcc problem_name.c -o problem_name
 | [0441-arranging-coins](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0441-arranging-coins/) | Easy |
 | [0507-perfect-number](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0509-fibonacci-number/) | Easy |
+| [0728-self-dividing-numbers](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0728-self-dividing-numbers/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
