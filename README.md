@@ -58,6 +58,7 @@ gcc problem_name.c -o problem_name
 | [0020-valid-parentheses](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0058-length-of-last-word/) | Easy |
+| [0067-add-binary](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0067-add-binary/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0316-remove-duplicate-letters/) | Medium |
 ## Dynamic Programming
@@ -107,6 +108,7 @@ gcc problem_name.c -o problem_name
 | [0029-divide-two-integers](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0029-divide-two-integers/) | Medium |
 | [0050-powx-n](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0066-plus-one/) | Easy |
+| [0067-add-binary](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0070-climbing-stairs/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0168-excel-sheet-column-title/) | Easy |
@@ -179,6 +181,7 @@ gcc problem_name.c -o problem_name
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0029-divide-two-integers/) | Medium |
+| [0067-add-binary](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0067-add-binary/) | Easy |
 | [0231-power-of-two](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0268-missing-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0371-sum-of-two-integers/) | Medium |
@@ -203,6 +206,7 @@ gcc problem_name.c -o problem_name
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0067-add-binary/) | Easy |
 | [0258-add-digits](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0258-add-digits/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
