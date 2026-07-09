@@ -47,6 +47,7 @@ gcc problem_name.c -o problem_name
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0125-valid-palindrome](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0202-happy-number](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0202-happy-number/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -59,6 +60,7 @@ gcc problem_name.c -o problem_name
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0067-add-binary/) | Easy |
+| [0125-valid-palindrome](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0316-remove-duplicate-letters/) | Medium |
 ## Dynamic Programming
