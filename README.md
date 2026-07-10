@@ -173,6 +173,7 @@ gcc problem_name.c -o problem_name
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0169-majority-element](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0169-majority-element/) | Easy |
+| [0191-number-of-1-bits](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0191-number-of-1-bits/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -187,6 +188,7 @@ gcc problem_name.c -o problem_name
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0029-divide-two-integers/) | Medium |
 | [0067-add-binary](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0067-add-binary/) | Easy |
+| [0191-number-of-1-bits](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0268-missing-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0371-sum-of-two-integers/) | Medium |
