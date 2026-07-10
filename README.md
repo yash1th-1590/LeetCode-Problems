@@ -83,6 +83,7 @@ gcc problem_name.c -o problem_name
 | [0035-search-insert-position](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0035-search-insert-position/) | Easy |
 | [0055-jump-game](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0055-jump-game/) | Medium |
 | [0066-plus-one](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0066-plus-one/) | Easy |
+| [0169-majority-element](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0169-majority-element/) | Easy |
 | [0204-count-primes](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0204-count-primes/) | Medium |
 | [0268-missing-number](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0268-missing-number/) | Easy |
 ## Hash Table
@@ -91,6 +92,7 @@ gcc problem_name.c -o problem_name
 | [0001-two-sum](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0001-two-sum/) | Easy |
 | [0012-integer-to-roman](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0012-integer-to-roman/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0169-majority-element](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0268-missing-number/) | Easy |
 ## Linked List
@@ -170,6 +172,7 @@ gcc problem_name.c -o problem_name
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0169-majority-element](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0169-majority-element/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -213,6 +216,7 @@ gcc problem_name.c -o problem_name
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0268-missing-number/) | Easy |
 ## Brainteaser
 | Problem Name | Difficulty |
@@ -222,4 +226,8 @@ gcc problem_name.c -o problem_name
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0292-nim-game/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
