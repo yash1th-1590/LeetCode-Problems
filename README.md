@@ -236,4 +236,5 @@ gcc problem_name.c -o problem_name
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
+| [0197-rising-temperature](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0197-rising-temperature/) | Easy |
 <!---LeetCode Topics End-->
