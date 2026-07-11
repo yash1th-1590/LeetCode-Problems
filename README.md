@@ -86,6 +86,7 @@ gcc problem_name.c -o problem_name
 | [0169-majority-element](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0169-majority-element/) | Easy |
 | [0204-count-primes](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0204-count-primes/) | Medium |
 | [0268-missing-number](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0268-missing-number/) | Easy |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -95,6 +96,7 @@ gcc problem_name.c -o problem_name
 | [0169-majority-element](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0268-missing-number/) | Easy |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -133,6 +135,7 @@ gcc problem_name.c -o problem_name
 | [0507-perfect-number](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0509-fibonacci-number/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0728-self-dividing-numbers/) | Easy |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -210,6 +213,7 @@ gcc problem_name.c -o problem_name
 | ------- | ------- |
 | [0204-count-primes](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0204-count-primes/) | Medium |
 | [0258-add-digits](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0258-add-digits/) | Easy |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -232,6 +236,7 @@ gcc problem_name.c -o problem_name
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0169-majority-element/) | Easy |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
