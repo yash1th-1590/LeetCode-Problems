@@ -63,6 +63,7 @@ gcc problem_name.c -o problem_name
 | [0067-add-binary](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0168-excel-sheet-column-title/) | Easy |
+| [0242-valid-anagram](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0242-valid-anagram/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0316-remove-duplicate-letters/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -102,6 +103,7 @@ gcc problem_name.c -o problem_name
 | [0169-majority-element](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0268-missing-number/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -240,6 +242,7 @@ gcc problem_name.c -o problem_name
 | [0088-merge-sorted-array](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0268-missing-number/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 ## Brainteaser
