@@ -85,6 +85,7 @@ gcc problem_name.c -o problem_name
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0035-search-insert-position/) | Easy |
+| [0041-first-missing-positive](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0041-first-missing-positive/) | Hard |
 | [0055-jump-game](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0055-jump-game/) | Medium |
 | [0066-plus-one](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0088-merge-sorted-array/) | Easy |
@@ -103,6 +104,7 @@ gcc problem_name.c -o problem_name
 | [0001-two-sum](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0001-two-sum/) | Easy |
 | [0012-integer-to-roman](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0012-integer-to-roman/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0041-first-missing-positive](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0041-first-missing-positive/) | Hard |
 | [0169-majority-element](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0217-contains-duplicate/) | Easy |
