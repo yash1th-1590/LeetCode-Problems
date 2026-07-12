@@ -67,6 +67,7 @@ gcc problem_name.c -o problem_name
 | [0242-valid-anagram](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0242-valid-anagram/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0389-find-the-difference](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0389-find-the-difference/) | Easy |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -94,6 +95,7 @@ gcc problem_name.c -o problem_name
 | [0217-contains-duplicate](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -112,6 +114,7 @@ gcc problem_name.c -o problem_name
 | [0268-missing-number](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0389-find-the-difference](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0389-find-the-difference/) | Easy |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [2748-number-of-beautiful-pairs](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/2748-number-of-beautiful-pairs/) | Easy |
