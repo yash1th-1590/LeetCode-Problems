@@ -66,6 +66,7 @@ gcc problem_name.c -o problem_name
 | [0168-excel-sheet-column-title](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0242-valid-anagram](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0242-valid-anagram/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [0389-find-the-difference](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0389-find-the-difference/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -108,6 +109,7 @@ gcc problem_name.c -o problem_name
 | [0242-valid-anagram](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0389-find-the-difference](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0389-find-the-difference/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [2748-number-of-beautiful-pairs](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/2748-number-of-beautiful-pairs/) | Easy |
@@ -213,6 +215,7 @@ gcc problem_name.c -o problem_name
 | [0231-power-of-two](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0268-missing-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0371-sum-of-two-integers/) | Medium |
+| [0389-find-the-difference](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0389-find-the-difference/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -249,6 +252,7 @@ gcc problem_name.c -o problem_name
 | [0242-valid-anagram](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0389-find-the-difference](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0389-find-the-difference/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 ## Brainteaser
 | Problem Name | Difficulty |
