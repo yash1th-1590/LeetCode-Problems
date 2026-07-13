@@ -234,6 +234,7 @@ gcc problem_name.c -o problem_name
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0204-count-primes/) | Medium |
+| [1291-sequential-digits](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1291-sequential-digits/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
