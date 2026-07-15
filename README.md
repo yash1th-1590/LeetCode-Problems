@@ -160,6 +160,7 @@ gcc problem_name.c -o problem_name
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2748-number-of-beautiful-pairs](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/2748-number-of-beautiful-pairs/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -244,6 +245,7 @@ gcc problem_name.c -o problem_name
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2748-number-of-beautiful-pairs](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/2748-number-of-beautiful-pairs/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
