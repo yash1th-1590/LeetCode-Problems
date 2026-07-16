@@ -51,6 +51,7 @@ gcc problem_name.c -o problem_name
 | [0125-valid-palindrome](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0202-happy-number](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0202-happy-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -102,6 +103,7 @@ gcc problem_name.c -o problem_name
 | [1331-rank-transform-of-an-array](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2748-number-of-beautiful-pairs](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/2748-number-of-beautiful-pairs/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -166,6 +168,7 @@ gcc problem_name.c -o problem_name
 | [2748-number-of-beautiful-pairs](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/2748-number-of-beautiful-pairs/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -250,11 +253,13 @@ gcc problem_name.c -o problem_name
 | [2413-smallest-even-multiple](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2748-number-of-beautiful-pairs](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/2748-number-of-beautiful-pairs/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0067-add-binary/) | Easy |
 | [0258-add-digits](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0258-add-digits/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -267,6 +272,7 @@ gcc problem_name.c -o problem_name
 | [0389-find-the-difference](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0389-find-the-difference/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
