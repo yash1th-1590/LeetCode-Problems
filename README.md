@@ -99,6 +99,7 @@ gcc problem_name.c -o problem_name
 | [0599-minimum-index-sum-of-two-lists](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0812-largest-triangle-area](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0812-largest-triangle-area/) | Easy |
+| [0860-lemonade-change](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0860-lemonade-change/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -194,6 +195,7 @@ gcc problem_name.c -o problem_name
 | [0011-container-with-most-water](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0055-jump-game](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0055-jump-game/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [0860-lemonade-change](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0860-lemonade-change/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
