@@ -302,6 +302,7 @@ gcc problem_name.c -o problem_name
 | [0181-employees-earning-more-than-their-managers](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0183-customers-who-never-order](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0183-customers-who-never-order/) | Easy |
 | [0184-department-highest-salary](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0184-department-highest-salary/) | Medium |
+| [0185-department-top-three-salaries](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0185-department-top-three-salaries/) | Hard |
 | [0196-delete-duplicate-emails](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0197-rising-temperature](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0197-rising-temperature/) | Easy |
 | [0595-big-countries](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0595-big-countries/) | Easy |
