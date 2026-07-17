@@ -305,6 +305,7 @@ gcc problem_name.c -o problem_name
 | [0196-delete-duplicate-emails](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0197-rising-temperature](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0197-rising-temperature/) | Easy |
 | [0595-big-countries](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0595-big-countries/) | Easy |
+| [0620-not-boring-movies](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0620-not-boring-movies/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
