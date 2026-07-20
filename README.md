@@ -72,6 +72,7 @@ gcc problem_name.c -o problem_name
 | [0389-find-the-difference](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0389-find-the-difference/) | Easy |
 | [0472-concatenated-words](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0472-concatenated-words/) | Hard |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -202,6 +203,7 @@ gcc problem_name.c -o problem_name
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -210,6 +212,7 @@ gcc problem_name.c -o problem_name
 | [0316-remove-duplicate-letters](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0455-assign-cookies](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0455-assign-cookies/) | Easy |
 | [0860-lemonade-change](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0860-lemonade-change/) | Easy |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -250,6 +253,7 @@ gcc problem_name.c -o problem_name
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0316-remove-duplicate-letters](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
