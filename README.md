@@ -105,6 +105,7 @@ gcc problem_name.c -o problem_name
 | [0414-third-maximum-number](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0414-third-maximum-number/) | Easy |
 | [0455-assign-cookies](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0455-assign-cookies/) | Easy |
 | [0472-concatenated-words](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0472-concatenated-words/) | Hard |
+| [0566-reshape-the-matrix](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0812-largest-triangle-area](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0812-largest-triangle-area/) | Easy |
@@ -284,6 +285,7 @@ gcc problem_name.c -o problem_name
 | ------- | ------- |
 | [0067-add-binary](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0067-add-binary/) | Easy |
 | [0258-add-digits](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0258-add-digits/) | Easy |
+| [0566-reshape-the-matrix](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0566-reshape-the-matrix/) | Easy |
 | [1260-shift-2d-grid](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1260-shift-2d-grid/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Sorting
@@ -350,5 +352,6 @@ gcc problem_name.c -o problem_name
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0048-rotate-image/) | Medium |
+| [0566-reshape-the-matrix](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0566-reshape-the-matrix/) | Easy |
 | [1260-shift-2d-grid](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1260-shift-2d-grid/) | Easy |
 <!---LeetCode Topics End-->
