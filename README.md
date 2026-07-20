@@ -93,6 +93,7 @@ gcc problem_name.c -o problem_name
 | [0027-remove-element](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0035-search-insert-position/) | Easy |
 | [0041-first-missing-positive](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0041-first-missing-positive/) | Hard |
+| [0048-rotate-image](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0048-rotate-image/) | Medium |
 | [0055-jump-game](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0055-jump-game/) | Medium |
 | [0066-plus-one](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0088-merge-sorted-array/) | Easy |
@@ -151,6 +152,7 @@ gcc problem_name.c -o problem_name
 | [0012-integer-to-roman](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0013-roman-to-integer/) | Easy |
 | [0029-divide-two-integers](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0029-divide-two-integers/) | Medium |
+| [0048-rotate-image](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0067-add-binary/) | Easy |
@@ -347,5 +349,6 @@ gcc problem_name.c -o problem_name
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0048-rotate-image/) | Medium |
 | [1260-shift-2d-grid](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1260-shift-2d-grid/) | Easy |
 <!---LeetCode Topics End-->
