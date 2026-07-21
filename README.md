@@ -74,6 +74,7 @@ gcc problem_name.c -o problem_name
 | [0472-concatenated-words](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0472-concatenated-words/) | Hard |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1576-replace-all-s-to-avoid-consecutive-repeating-characters/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
