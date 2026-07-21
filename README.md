@@ -52,6 +52,7 @@ gcc problem_name.c -o problem_name
 | [0202-happy-number](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0202-happy-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0455-assign-cookies](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0455-assign-cookies/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -113,6 +114,7 @@ gcc problem_name.c -o problem_name
 | [0860-lemonade-change](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0860-lemonade-change/) | Easy |
 | [0867-transpose-matrix](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0867-transpose-matrix/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1260-shift-2d-grid](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1260-shift-2d-grid/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -306,6 +308,7 @@ gcc problem_name.c -o problem_name
 | [0455-assign-cookies](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0455-assign-cookies/) | Easy |
 | [0472-concatenated-words](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0472-concatenated-words/) | Hard |
 | [0628-maximum-product-of-three-numbers](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Brainteaser
