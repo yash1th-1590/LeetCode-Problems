@@ -178,6 +178,7 @@ gcc problem_name.c -o problem_name
 | [0367-valid-perfect-square](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0367-valid-perfect-square/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0390-elimination-game](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0390-elimination-game/) | Medium |
+| [0400-nth-digit](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0400-nth-digit/) | Medium |
 | [0441-arranging-coins](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0441-arranging-coins/) | Easy |
 | [0507-perfect-number](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0509-fibonacci-number/) | Easy |
@@ -231,6 +232,7 @@ gcc problem_name.c -o problem_name
 | [0268-missing-number](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0367-valid-perfect-square](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0367-valid-perfect-square/) | Easy |
+| [0400-nth-digit](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0400-nth-digit/) | Medium |
 | [0441-arranging-coins](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0441-arranging-coins/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 ## Divide and Conquer
