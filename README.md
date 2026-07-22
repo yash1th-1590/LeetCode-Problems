@@ -341,6 +341,7 @@ gcc problem_name.c -o problem_name
 | [0577-employee-bonus](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0577-employee-bonus/) | Easy |
 | [0595-big-countries](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0595-big-countries/) | Easy |
 | [0620-not-boring-movies](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0620-not-boring-movies/) | Easy |
+| [0626-exchange-seats](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0626-exchange-seats/) | Medium |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
