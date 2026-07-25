@@ -195,6 +195,7 @@ gcc problem_name.c -o problem_name
 | [3312-sorted-gcd-pair-queries](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
+| [3536-maximum-product-of-two-digits](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -322,6 +323,7 @@ gcc problem_name.c -o problem_name
 | [0628-maximum-product-of-three-numbers](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |
