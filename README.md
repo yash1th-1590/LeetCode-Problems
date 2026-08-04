@@ -127,6 +127,7 @@ gcc problem_name.c -o problem_name
 | [3312-sorted-gcd-pair-queries](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
+| [3731-find-missing-elements](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -150,6 +151,7 @@ gcc problem_name.c -o problem_name
 | [1331-rank-transform-of-an-array](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [2748-number-of-beautiful-pairs](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/2748-number-of-beautiful-pairs/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3731-find-missing-elements](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3731-find-missing-elements/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -332,6 +334,7 @@ gcc problem_name.c -o problem_name
 | [1331-rank-transform-of-an-array](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3731-find-missing-elements](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |
