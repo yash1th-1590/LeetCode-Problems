@@ -124,6 +124,7 @@ gcc problem_name.c -o problem_name
 | [1331-rank-transform-of-an-array](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2748-number-of-beautiful-pairs](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/2748-number-of-beautiful-pairs/) | Easy |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -151,6 +152,7 @@ gcc problem_name.c -o problem_name
 | [1189-maximum-number-of-balloons](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [2748-number-of-beautiful-pairs](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/2748-number-of-beautiful-pairs/) | Easy |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3731-find-missing-elements](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3731-find-missing-elements/) | Easy |
@@ -408,4 +410,8 @@ gcc problem_name.c -o problem_name
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 <!---LeetCode Topics End-->
