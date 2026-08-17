@@ -380,6 +380,7 @@ gcc problem_name.c -o problem_name
 | [0584-find-customer-referee](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0584-find-customer-referee/) | Easy |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 | [0595-big-countries](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0595-big-countries/) | Easy |
+| [0596-classes-with-at-least-5-students](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0620-not-boring-movies](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0620-not-boring-movies/) | Easy |
 | [0626-exchange-seats](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0626-exchange-seats/) | Medium |
 | [0627-swap-sex-of-employees](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0627-swap-sex-of-employees/) | Easy |
