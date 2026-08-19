@@ -48,6 +48,7 @@ gcc problem_name.c -o problem_name
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0086-partition-list](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0086-partition-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0202-happy-number](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0202-happy-number/) | Easy |
@@ -168,6 +169,7 @@ gcc problem_name.c -o problem_name
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0086-partition-list](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0086-partition-list/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
