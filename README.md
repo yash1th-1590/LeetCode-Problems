@@ -400,6 +400,7 @@ gcc problem_name.c -o problem_name
 | [0627-swap-sex-of-employees](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0627-swap-sex-of-employees/) | Easy |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1068-product-sales-analysis-i/) | Easy |
+| [1075-project-employees-i](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1075-project-employees-i/) | Easy |
 | [1341-movie-rating](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1341-movie-rating/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
