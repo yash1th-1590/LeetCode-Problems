@@ -121,6 +121,7 @@ gcc problem_name.c -o problem_name
 | [0414-third-maximum-number](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0414-third-maximum-number/) | Easy |
 | [0455-assign-cookies](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0455-assign-cookies/) | Easy |
 | [0472-concatenated-words](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0472-concatenated-words/) | Hard |
+| [0561-array-partition](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0561-array-partition/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0605-can-place-flowers](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0605-can-place-flowers/) | Easy |
@@ -259,6 +260,7 @@ gcc problem_name.c -o problem_name
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0455-assign-cookies](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0455-assign-cookies/) | Easy |
+| [0561-array-partition](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0561-array-partition/) | Easy |
 | [0605-can-place-flowers](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0605-can-place-flowers/) | Easy |
 | [0860-lemonade-change](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0860-lemonade-change/) | Easy |
 | [1054-distant-barcodes](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1054-distant-barcodes/) | Medium |
@@ -361,6 +363,7 @@ gcc problem_name.c -o problem_name
 | [0414-third-maximum-number](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0414-third-maximum-number/) | Easy |
 | [0455-assign-cookies](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0455-assign-cookies/) | Easy |
 | [0472-concatenated-words](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0472-concatenated-words/) | Hard |
+| [0561-array-partition](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0561-array-partition/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1054-distant-barcodes](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1054-distant-barcodes/) | Medium |
@@ -446,6 +449,7 @@ gcc problem_name.c -o problem_name
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0561-array-partition](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0561-array-partition/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
