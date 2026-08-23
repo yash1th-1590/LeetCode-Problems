@@ -135,6 +135,7 @@ gcc problem_name.c -o problem_name
 | [1260-shift-2d-grid](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1260-shift-2d-grid/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1390-four-divisors](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1390-four-divisors/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2748-number-of-beautiful-pairs](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/2748-number-of-beautiful-pairs/) | Easy |
@@ -218,6 +219,7 @@ gcc problem_name.c -o problem_name
 | [0728-self-dividing-numbers](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0728-self-dividing-numbers/) | Easy |
 | [0812-largest-triangle-area](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0812-largest-triangle-area/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
+| [1390-four-divisors](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1390-four-divisors/) | Medium |
 | [1927-sum-game](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/2413-smallest-even-multiple/) | Easy |
@@ -459,4 +461,12 @@ gcc problem_name.c -o problem_name
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+## Prime Factorization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1390-four-divisors](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1390-four-divisors/) | Medium |
+## Sieve Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1390-four-divisors](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1390-four-divisors/) | Medium |
 <!---LeetCode Topics End-->
