@@ -80,6 +80,7 @@ gcc problem_name.c -o problem_name
 | [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1576-replace-all-s-to-avoid-consecutive-repeating-characters/) | Easy |
 | [1927-sum-game](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1927-sum-game/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Dynamic Programming
@@ -166,6 +167,7 @@ gcc problem_name.c -o problem_name
 | [2748-number-of-beautiful-pairs](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/2748-number-of-beautiful-pairs/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3731-find-missing-elements](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3731-find-missing-elements/) | Easy |
 ## Linked List
@@ -447,4 +449,5 @@ gcc problem_name.c -o problem_name
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 <!---LeetCode Topics End-->
