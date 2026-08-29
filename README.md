@@ -79,6 +79,7 @@ gcc problem_name.c -o problem_name
 | [1189-maximum-number-of-balloons](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1576-replace-all-s-to-avoid-consecutive-repeating-characters/) | Easy |
 | [1927-sum-game](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1927-sum-game/) | Medium |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
@@ -470,6 +471,7 @@ gcc problem_name.c -o problem_name
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Prime Factorization
