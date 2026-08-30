@@ -142,6 +142,7 @@ gcc problem_name.c -o problem_name
 | [1872-stone-game-viii](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1872-stone-game-viii/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2748-number-of-beautiful-pairs](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/2748-number-of-beautiful-pairs/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -281,6 +282,7 @@ gcc problem_name.c -o problem_name
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1927-sum-game](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1927-sum-game/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Binary Search
