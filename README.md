@@ -195,6 +195,7 @@ gcc problem_name.c -o problem_name
 | [0021-merge-two-sorted-lists](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0086-partition-list](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0086-partition-list/) | Medium |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
