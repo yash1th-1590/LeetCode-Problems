@@ -467,6 +467,7 @@ gcc problem_name.c -o problem_name
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0472-concatenated-words](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0472-concatenated-words/) | Hard |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -510,4 +511,12 @@ gcc problem_name.c -o problem_name
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 <!---LeetCode Topics End-->
