@@ -97,6 +97,7 @@ gcc problem_name.c -o problem_name
 | [0357-count-numbers-with-unique-digits](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 | [0472-concatenated-words](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0472-concatenated-words/) | Hard |
 | [0509-fibonacci-number](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0509-fibonacci-number/) | Easy |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1872-stone-game-viii](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1872-stone-game-viii/) | Hard |
 ## Array
 | Problem Name | Difficulty |
@@ -237,6 +238,7 @@ gcc problem_name.c -o problem_name
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1390-four-divisors](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1390-four-divisors/) | Medium |
 | [1401-circle-and-rectangle-overlapping](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1872-stone-game-viii](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -459,10 +461,12 @@ gcc problem_name.c -o problem_name
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1872-stone-game-viii](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1872-stone-game-viii/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3903-smallest-stable-index-i/) | Easy |
