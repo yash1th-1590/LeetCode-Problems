@@ -235,6 +235,7 @@ gcc problem_name.c -o problem_name
 | [0812-largest-triangle-area](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0812-largest-triangle-area/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1390-four-divisors](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1390-four-divisors/) | Medium |
+| [1401-circle-and-rectangle-overlapping](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1872-stone-game-viii](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -453,6 +454,7 @@ gcc problem_name.c -o problem_name
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0812-largest-triangle-area](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0812-largest-triangle-area/) | Easy |
+| [1401-circle-and-rectangle-overlapping](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
