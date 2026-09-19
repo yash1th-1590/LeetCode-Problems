@@ -238,6 +238,7 @@ gcc problem_name.c -o problem_name
 | [0628-maximum-product-of-three-numbers](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0728-self-dividing-numbers/) | Easy |
 | [0812-largest-triangle-area](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0812-largest-triangle-area/) | Easy |
+| [0836-rectangle-overlap](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0836-rectangle-overlap/) | Easy |
 | [0866-prime-palindrome](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0866-prime-palindrome/) | Medium |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1390-four-divisors](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1390-four-divisors/) | Medium |
@@ -463,6 +464,7 @@ gcc problem_name.c -o problem_name
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0812-largest-triangle-area](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0812-largest-triangle-area/) | Easy |
+| [0836-rectangle-overlap](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0836-rectangle-overlap/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
