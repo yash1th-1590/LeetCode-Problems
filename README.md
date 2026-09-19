@@ -55,6 +55,7 @@ gcc problem_name.c -o problem_name
 | [0349-intersection-of-two-arrays](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0455-assign-cookies](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0455-assign-cookies/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -80,6 +81,7 @@ gcc problem_name.c -o problem_name
 | [1189-maximum-number-of-balloons](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1576-replace-all-s-to-avoid-consecutive-repeating-characters/) | Easy |
 | [1927-sum-game](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1927-sum-game/) | Medium |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -99,6 +101,7 @@ gcc problem_name.c -o problem_name
 | [0509-fibonacci-number](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0509-fibonacci-number/) | Easy |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1872-stone-game-viii](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1872-stone-game-viii/) | Hard |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -294,6 +297,7 @@ gcc problem_name.c -o problem_name
 | [1386-cinema-seat-allocation](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1927-sum-game](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1927-sum-game/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Binary Search
