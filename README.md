@@ -158,6 +158,7 @@ gcc problem_name.c -o problem_name
 | [3312-sorted-gcd-pair-queries](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
+| [3525-find-x-value-of-array-ii](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3718-smallest-missing-multiple-of-k](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -254,6 +255,7 @@ gcc problem_name.c -o problem_name
 | [3345-smallest-divisible-digit-product-i](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
+| [3525-find-x-value-of-array-ii](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -538,4 +540,8 @@ gcc problem_name.c -o problem_name
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0866-prime-palindrome](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0866-prime-palindrome/) | Medium |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 <!---LeetCode Topics End-->
