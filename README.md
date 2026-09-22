@@ -85,6 +85,7 @@ gcc problem_name.c -o problem_name
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
@@ -387,6 +388,7 @@ gcc problem_name.c -o problem_name
 | [1260-shift-2d-grid](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1260-shift-2d-grid/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
