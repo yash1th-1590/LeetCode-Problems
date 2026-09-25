@@ -1,49 +1,26 @@
 class Solution:
     def braceExpansionII(self, expression):
-        def solve(s):
-            if not s:
-                return [""]
+        def parse(i):
+            res = set()
+            cur = {""}
 
-            if s[0] == '{':
-                level = 0
-                end = 0
+            while i < len(expression) and expression[i] != '}':
+                if expression[i] == ',':
+                    res |= cur
+                    cur = {""}
+                    i += 1
 
-                for i in range(len(s)):
-                    if s[i] == '{':
-                        level += 1
-                    elif s[i] == '}':
-                        level -= 1
-                        if level == 0:
-                            end = i
-                            break
+                elif expression[i] == '{':
+                    nxt, i = parse(i + 1)
+                    cur = {a + b for a in cur for b in nxt}
 
-                parts = []
-                start = 1
-                level = 0
+                else:
+                    cur = {a + expression[i] for a in cur}
+                    i += 1
 
-                for i in range(1, end):
-                    if s[i] == '{':
-                        level += 1
-                    elif s[i] == '}':
-                        level -= 1
-                    elif s[i] == ',' and level == 0:
-                        parts.append(s[start:i])
-                        start = i + 1
+            res |= cur
+            return res, i + 1
 
-                parts.append(s[start:end])
+        ans, _ = parse(0)
 
-                left = []
-
-                for p in parts:
-                    left += solve(p)
-
-                right = solve(s[end + 1:])
-
-                return [a + b for a in left for b in right]
-
-            left = [s[0]]
-            right = solve(s[1:])
-
-            return [a + b for a in left for b in right]
-
-        return sorted(set(solve(expression)))
+        return sorted(ans)
