@@ -78,6 +78,7 @@ gcc problem_name.c -o problem_name
 | [0472-concatenated-words](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0472-concatenated-words/) | Hard |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1576-replace-all-s-to-avoid-consecutive-repeating-characters/) | Easy |
 | [1927-sum-game](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1927-sum-game/) | Medium |
@@ -187,6 +188,7 @@ gcc problem_name.c -o problem_name
 | [0599-minimum-index-sum-of-two-lists](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1054-distant-barcodes](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1054-distant-barcodes/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -293,6 +295,7 @@ gcc problem_name.c -o problem_name
 | [0020-valid-parentheses](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -337,6 +340,7 @@ gcc problem_name.c -o problem_name
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0357-count-numbers-with-unique-digits](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1096-brace-expansion-ii/) | Hard |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -416,6 +420,7 @@ gcc problem_name.c -o problem_name
 | [0628-maximum-product-of-three-numbers](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1054-distant-barcodes](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1054-distant-barcodes/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
@@ -556,4 +561,8 @@ gcc problem_name.c -o problem_name
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3525-find-x-value-of-array-ii/) | Hard |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1096-brace-expansion-ii](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1096-brace-expansion-ii/) | Hard |
 <!---LeetCode Topics End-->
