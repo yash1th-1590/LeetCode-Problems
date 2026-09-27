@@ -82,6 +82,7 @@ gcc problem_name.c -o problem_name
 | [1189-maximum-number-of-balloons](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1576-replace-all-s-to-avoid-consecutive-repeating-characters/) | Easy |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1927-sum-game](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1927-sum-game/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
@@ -149,6 +150,7 @@ gcc problem_name.c -o problem_name
 | [1386-cinema-seat-allocation](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1390-four-divisors](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1390-four-divisors/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1872-stone-game-viii](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1872-stone-game-viii/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
@@ -194,6 +196,7 @@ gcc problem_name.c -o problem_name
 | [1331-rank-transform-of-an-array](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2748-number-of-beautiful-pairs](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/2748-number-of-beautiful-pairs/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
