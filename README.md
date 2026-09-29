@@ -105,6 +105,7 @@ gcc problem_name.c -o problem_name
 | [0509-fibonacci-number](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0509-fibonacci-number/) | Easy |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1872-stone-game-viii](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1872-stone-game-viii/) | Hard |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3524-find-x-value-of-array-i/) | Medium |
 ## Array
@@ -155,6 +156,7 @@ gcc problem_name.c -o problem_name
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2553-separate-the-digits-in-an-array](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2748-number-of-beautiful-pairs](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/2748-number-of-beautiful-pairs/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
@@ -515,6 +517,7 @@ gcc problem_name.c -o problem_name
 | [0566-reshape-the-matrix](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0867-transpose-matrix](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0867-transpose-matrix/) | Easy |
 | [1260-shift-2d-grid](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1260-shift-2d-grid/) | Easy |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -576,4 +579,5 @@ gcc problem_name.c -o problem_name
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 <!---LeetCode Topics End-->
