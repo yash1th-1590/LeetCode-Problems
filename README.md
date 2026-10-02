@@ -61,6 +61,7 @@ gcc problem_name.c -o problem_name
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0006-zigzag-conversion](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0006-zigzag-conversion/) | Medium |
 | [0012-integer-to-roman](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0014-longest-common-prefix/) | Easy |
