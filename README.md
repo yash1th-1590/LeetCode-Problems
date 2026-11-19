@@ -488,6 +488,7 @@ gcc problem_name.c -o problem_name
 | [0197-rising-temperature](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0197-rising-temperature/) | Easy |
 | [0262-trips-and-users](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0262-trips-and-users/) | Hard |
 | [0511-game-play-analysis-i](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0511-game-play-analysis-i/) | Easy |
+| [0550-game-play-analysis-iv](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0550-game-play-analysis-iv/) | Medium |
 | [0577-employee-bonus](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0577-employee-bonus/) | Easy |
 | [0584-find-customer-referee](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0584-find-customer-referee/) | Easy |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
