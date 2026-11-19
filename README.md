@@ -486,6 +486,7 @@ gcc problem_name.c -o problem_name
 | [0185-department-top-three-salaries](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0185-department-top-three-salaries/) | Hard |
 | [0196-delete-duplicate-emails](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0197-rising-temperature](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0197-rising-temperature/) | Easy |
+| [0262-trips-and-users](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0262-trips-and-users/) | Hard |
 | [0511-game-play-analysis-i](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0511-game-play-analysis-i/) | Easy |
 | [0577-employee-bonus](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0577-employee-bonus/) | Easy |
 | [0584-find-customer-referee](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/0584-find-customer-referee/) | Easy |
