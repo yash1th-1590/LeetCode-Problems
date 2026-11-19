@@ -166,6 +166,7 @@ gcc problem_name.c -o problem_name
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2553-separate-the-digits-in-an-array](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2748-number-of-beautiful-pairs](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/2748-number-of-beautiful-pairs/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -330,6 +331,7 @@ gcc problem_name.c -o problem_name
 | [1927-sum-game](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1927-sum-game/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Binary Search
@@ -441,6 +443,7 @@ gcc problem_name.c -o problem_name
 | [1096-brace-expansion-ii](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/yash1th-1590/LeetCode-Problems/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
